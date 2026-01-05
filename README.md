@@ -1,2 +1,2 @@
 <h1>Запуск:</h1>  
-bash launch.sh
+```sh bash launch.sh```
